@@ -19,7 +19,7 @@ Full-stack Java Developer with 2+ years of experience building scalable web appl
 - **Concepts & Interests:** Object-Oriented Design, Data Structures and Algorithms, DBMS, Agile Development, Secure Code Practices
 
 ## 🚀 Career Profile
-- **4+ years of experience** in Java development, specializing in enterprise application architecture and design
+- **2+ years of experience** in Java development, specializing in enterprise application architecture and design
 - Expertise in designing and managing RESTful APIs, SQL queries, and implementing efficient database operations
 - Proficient in Spring Framework (Spring Boot, Spring MVC, Microservices) for building high-performance applications
 - Strong background in cloud infrastructure management on AWS, enabling cost-effective and scalable solutions
