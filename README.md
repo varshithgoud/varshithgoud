@@ -1,7 +1,7 @@
 # Sai Varshith Gandu - Professional Portfolio
 
 ## 📞 Contact Information
-- **E-Mail:** gsaivarshith02@gmail.com
+- **E-Mail:** saivarshith1002@gmail.com
 - **Mobile:** +1 (940) 703-2747
 - **Location:** Denton, TX, USA
 - **LinkedIn:** [Sai Varshith Gandu](https://www.linkedin.com/in/sai-varshith-goud-3260551b5/)
@@ -28,6 +28,7 @@ Full-stack Java Developer with 2+ years of experience building scalable web appl
 - AWS Certified Developer Associate with a proven track record of implementing cloud-native solutions
 
 ## 🛠️ Professional Experience
+
 ### **Teaching Assistant, University of North Texas**  
 **August 2024 - Present** | Denton, Texas, USA
 - Boosted course performance by 15% through effective teaching of complex algorithmic concepts
@@ -43,13 +44,6 @@ Full-stack Java Developer with 2+ years of experience building scalable web appl
 - Integrated AWS services (S3, Lambda, SNS) for a real-time order management system processing 1,000+ transactions daily
 - Delivered 90% test coverage through comprehensive unit and integration testing using JUnit and Mockito
 - Secured JWT authentication and integrated Spring Security for 10,000+ registered users
-
-### **Software Engineer Intern, SMG Info Tech**  
-**June 2020 - April 2021**
-- Developed end-to-end features for web applications using Java, Spring MVC, and Hibernate
-- Migrated legacy applications to microservices architecture, reducing deployment downtime by 20%
-- Delivered 90% test coverage with JUnit and Mockito, cutting production bugs by 25%
-- Mentored junior developers on Spring framework best practices and Java design patterns
 
 ## 📚 Education
 **Master of Science in Computer Science**  
