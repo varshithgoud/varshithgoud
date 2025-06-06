@@ -8,17 +8,18 @@
 - **GitHub:** [Sai Varshith Gandu](https://github.com/varshithgoud)
 
 ## 🎯 Career Objective
-AWS Certified Developer Associate with expertise in enterprise application architecture, design, and development. Seeking to leverage my 4+ years of experience in Java and modern frameworks to contribute to a dynamic organization that values scalable, robust solutions and offers opportunities for professional growth.
+Full-stack Java Developer with 2+ years of experience building scalable web applica>ons and microservices architectures. Exper>se in Java, Spring
+Boot, React.js, and cloud technologies (AWS, GCP) with proven ability to op>mize system performance by 30%+ and reduce deployment down>me
+by 20%. Track record of delivering high-impact solu>ons serving 10,000+ concurrent users while maintaining 99.9%+ up>me. Strong background in
+automated tes>ng, database op>miza>on, and secure authen>ca>on systems.
 
 ## 💻 **Technologies**
-- **Programming Languages:** Java, JavaScript, Python, C#, SQL, HTML, CSS
-- **Frameworks:** Spring Boot, Spring MVC, Spring Cloud, Hibernate
-- **Database:** Oracle, MySQL, SQL Server, PL/SQL, JDBC, Spring Data JPA, CQL, Apache Cassandra
-- **Tools & Technologies:** Maven, Log4j, JUnit, Kafka, RESTful API Development, Git, Docker, Kubernetes, Jenkins, GitHub Actions
-- **Operating System:** Windows, Linux, Mac
-- **Cloud Technologies:** AWS, Spring Cloud
-- **Other:** Data Structures with Java, Unix, Shell Scripting, Machine Learning, Apache JMS, Microservices, RESTful APIs, CI/CD, Web Application Development
-
+Programming Languages: Java, Python, C++, JavaScript, SQL, C#,J2EE.
+Java Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices.
+Web Development & Web Services: HTML, CSS, JavaScript, TypeScript, Angular, ReactJS, Groovy, SOAP, REST ful APIs
+Databases & Cloud Computing: PostgreSQL, MySQL, DynamoDB, AWS (EC2, S3, Lambda, API Gateway, RDS), Cloud Quest, Oracle Cloud, GCP
+Development Tools, IDEs & Version Control System: IntelliJ, Visual Studio Code, Postman, Selenium, Groovy, Jira, Scrum, Sprints, Git, Jenkins
+Concepts & Interests: Object-Oriented Design, Data Structures and Algorithms, DBMS, Agile Development, Secure Code Practices.
 
 ## 🚀 Career Profile
 - **4+ years of experience** in Java development, specializing in enterprise application architecture and design
