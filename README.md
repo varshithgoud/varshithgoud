@@ -8,18 +8,15 @@
 - **GitHub:** [Sai Varshith Gandu](https://github.com/varshithgoud)
 
 ## 🎯 Career Objective
-Full-stack Java Developer with 2+ years of experience building scalable web applica>ons and microservices architectures. Exper>se in Java, Spring
-Boot, React.js, and cloud technologies (AWS, GCP) with proven ability to op>mize system performance by 30%+ and reduce deployment down>me
-by 20%. Track record of delivering high-impact solu>ons serving 10,000+ concurrent users while maintaining 99.9%+ up>me. Strong background in
-automated tes>ng, database op>miza>on, and secure authen>ca>on systems.
+Full-stack Java Developer with 2+ years of experience building scalable web applications and microservices architectures. Expertise in Java, Spring Boot, React.js, and cloud technologies (AWS, GCP) with a proven ability to optimize system performance by 30%+ and reduce deployment downtime by 20%. Track record of delivering high-impact solutions serving 10,000+ concurrent users while maintaining 99.9%+ uptime. Strong background in automated testing, database optimization, and secure authentication systems.
 
 ## 💻 **Technologies**
-Programming Languages: Java, Python, C++, JavaScript, SQL, C#,J2EE.
-Java Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices.
-Web Development & Web Services: HTML, CSS, JavaScript, TypeScript, Angular, ReactJS, Groovy, SOAP, REST ful APIs
-Databases & Cloud Computing: PostgreSQL, MySQL, DynamoDB, AWS (EC2, S3, Lambda, API Gateway, RDS), Cloud Quest, Oracle Cloud, GCP
-Development Tools, IDEs & Version Control System: IntelliJ, Visual Studio Code, Postman, Selenium, Groovy, Jira, Scrum, Sprints, Git, Jenkins
-Concepts & Interests: Object-Oriented Design, Data Structures and Algorithms, DBMS, Agile Development, Secure Code Practices.
+- **Programming Languages:** Java, Python, C++, JavaScript, SQL, C#, J2EE
+- **Java Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices
+- **Web Development & Web Services:** HTML, CSS, JavaScript, TypeScript, Angular, ReactJS, Groovy, SOAP, RESTful APIs
+- **Databases & Cloud Computing:** PostgreSQL, MySQL, DynamoDB, AWS (EC2, S3, Lambda, API Gateway, RDS), Cloud Quest, Oracle Cloud, GCP
+- **Development Tools, IDEs & Version Control System:** IntelliJ, Visual Studio Code, Postman, Selenium, Groovy, Jira, Scrum, Sprints, Git, Jenkins
+- **Concepts & Interests:** Object-Oriented Design, Data Structures and Algorithms, DBMS, Agile Development, Secure Code Practices
 
 ## 🚀 Career Profile
 - **4+ years of experience** in Java development, specializing in enterprise application architecture and design
@@ -28,79 +25,56 @@ Concepts & Interests: Object-Oriented Design, Data Structures and Algorithms, DB
 - Strong background in cloud infrastructure management on AWS, enabling cost-effective and scalable solutions
 - Experienced in mentoring junior developers, leading teams, and collaborating across functions
 - Advanced skills in automated testing frameworks to ensure software quality and reliability
-- AWS Certified Developer Associate with proven track record of implementing cloud-native solutions
+- AWS Certified Developer Associate with a proven track record of implementing cloud-native solutions
 
 ## 🛠️ Professional Experience
-### Teaching Assistant, University of North Texas
+### **Teaching Assistant, University of North Texas**  
 **August 2024 - Present** | Denton, Texas, USA
-- Elevated course performance by 15% through effective teaching of complex algorithmic concepts
-- Enhanced student learning outcomes by 20% through rigorous grading and constructive feedback
-- Directly contributed to a 30% grade improvement for struggling students through personalized support
-- Conducted office hours to provide additional assistance with data structures and algorithms
+- Boosted course performance by 15% through effective teaching of complex algorithmic concepts
+- Improved student learning outcomes by 20% through rigorous grading and comprehensive feedback on 300+ assignments weekly
+- Achieved 30% grade improvement for struggling students through targeted mentoring sessions
+- Conducted 8 hours of weekly office hours serving 40+ students, strengthening technical communication and analytical skills
 
-### Software Development Engineer, SMG InfoTech
-**September 2021 - June 2023** | Location not specified
-- Developed high-performance backend APIs for scalable applications using Java, Spring Boot, and RESTful web services
-- Implemented microservices architecture serving over 1M daily active users, ensuring modularity and scalability
-- Designed and optimized database schemas for PostgreSQL and DynamoDB, reducing query execution times by 30%
-- Enhanced backend resilience with retry mechanisms, circuit breakers, and Redis caching, achieving 99.9% uptime
-- Automated build, test, and deployment pipelines using Jenkins and Docker, reducing deployment times by 40%
-- Integrated AWS services (EC2, S3, Lambda, API Gateway) for improved scalability and performance
-- Led code reviews and collaborated with cross-functional teams to implement best practices
-- Optimized API response times through performance profiling and refactoring, improving system efficiency by 20%
-- Containerized microservices with Kubernetes to enhance scalability and reliability across environments
-- Actively participated in Agile ceremonies, collaborating with product owners to deliver features on schedule
+### **Software Engineer, SMG Info Tech**  
+**June 2022 - April 2023**
+- Built 15+ end-to-end features for web applications, focusing on backend services using Java, Spring MVC, and Hibernate
+- Transformed legacy monolithic application to Spring-based microservices architecture, reducing deployment downtime by 20%
+- Engineered 8 reusable libraries for logging, exception handling, and configuration management, boosting developer productivity by 15%
+- Integrated AWS services (S3, Lambda, SNS) for a real-time order management system processing 1,000+ transactions daily
+- Delivered 90% test coverage through comprehensive unit and integration testing using JUnit and Mockito
+- Secured JWT authentication and integrated Spring Security for 10,000+ registered users
 
-### Software Engineer Intern, SMG InfoTech
-**June 2020 - April 2021** | Location not specified
+### **Software Engineer Intern, SMG Info Tech**  
+**June 2020 - April 2021**
 - Developed end-to-end features for web applications using Java, Spring MVC, and Hibernate
-- Migrated a legacy monolithic application to Spring-based microservices, reducing deployment downtime by 20%
-- Created reusable libraries for logging, exception handling, and configuration management, increasing developer productivity by 15%
-- Led backend implementation of a real-time order management system integrating Spring Boot with AWS services
-- Wrote unit and integration tests with JUnit and Mockito, achieving 90% test coverage and reducing production bugs by 25%
+- Migrated legacy applications to microservices architecture, reducing deployment downtime by 20%
+- Delivered 90% test coverage with JUnit and Mockito, cutting production bugs by 25%
 - Mentored junior developers on Spring framework best practices and Java design patterns
-- Optimized database queries and indexing in PostgreSQL, resulting in 30% increased throughput
-- Implemented JWT authentication and Spring Security for secure, role-based API access
 
 ## 📚 Education
-- **Master of Science in Computer Science**, University of North Texas, Denton, Texas (Present, GPA: 3.9/4.0)
-  - Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Software Engineering, Web Development, Database Systems, Cloud Computing, Distributed Systems, Computer Networks
+**Master of Science in Computer Science**  
+University of North Texas, Denton, TX (May 2025, GPA: 3.97/4.0)  
+*Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Software Engineering, Web Development, Database Systems, Cloud Computing, Computer Networks*  
+*Awards: Computer Science Scholarship and Assistantship*
 
 ## 🚀 Projects
-### Smart Home Automation System (Jan 2024 - Feb 2024)
-- Built a scalable IoT-based home automation system using AWS IoT Core, Lambda, and DynamoDB
-- Designed and deployed RESTful APIs for seamless device interaction with low-latency communication
-- Implemented MQTT protocols for reliable real-time data transfer between IoT devices and cloud services
-- **Technologies Used:** Java, Spring Boot, AWS IoT Core, Lambda, DynamoDB, MQTT, REST APIs
-- **Project Link:** [Smart Home Automation System](https://github.com/saivarshithgandu/smart-home)
+### **E-Wallet Application**
+- Designed a multi-tier system handling 10,000+ concurrent users with 99.99% uptime
+- Streamlined transaction processing, increasing efficiency by 40% and handling 50,000+ daily transactions
+- Leveraged 8 object-oriented design patterns for a maintainable and reusable codebase
 
-### E-commerce Platform (Sep 2023 - Nov 2023)
-- Developed a cloud-based e-commerce platform leveraging AWS EC2, RDS, and S3, supporting high-traffic workloads with sub-500ms latency
-- Built a secure payment gateway using Java, Spring Boot, and third-party APIs with end-to-end encryption
-- Optimized backend services using Redis caching strategies and load testing to handle 50,000 concurrent users
-- **Technologies Used:** Java, Spring Boot, PostgreSQL, AWS (EC2, S3, RDS), Redis, REST APIs, Git
-- **Project Link:** [E-commerce Platform](https://github.com/saivarshithgandu/ecommerce-platform)
+### **Library Management System**
+- Built a platform for 500+ users with sub-second response times using optimized search algorithms
+- Implemented Redis caching to reduce database load by 60% and improve query performance by 3x
+- Achieved 99.9% transaction success rate with fault-tolerant CRUD operations
+
+### **Vehicle Assistance Using Web Application**
+- Launched a location-based platform connecting 1,000+ users with nearby mechanics, reducing response time to 8 minutes
+- Integrated GPS services with 95% accuracy within a 500-meter radius for emergency assistance
+- Designed a responsive interface supporting 3 device types with 98% cross-browser compatibility
 
 ## 📜 Certifications
 - **AWS Certified Developer – Associate**
-- **Software Engineering Job Simulation** - J.P. Morgan**
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- **Google Data Analytics Specialization**
-- **AWS Cloud Quest: Cloud Practitioner**
-    
-## Hi there 👋
-
-<!--
-**varshithgoud/varshithgoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Software Engineering Job Simulation – JPMorgan**
+- **AI For Everyone**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundation Associate**
